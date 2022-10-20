@@ -9,7 +9,7 @@ I page and sort API results. Improved performance with Spring Cache. Used secure
 <h3>Used tools:</h3>
 <ul>
 <li>Java</li>
-<li>Java Spring</li>
+<li>Java Spring Boot</li>
 <li>Swagger</li>
 <li>H2</li>
 </ul>
