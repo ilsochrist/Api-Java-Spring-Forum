@@ -1,6 +1,4 @@
-# Api-Java-Spring-Fórum
-
-# API-FORUM
+# Api-Fórum
 
 This is a Forum API project
 
